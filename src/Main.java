@@ -66,6 +66,7 @@ public class Main {
             System.out.println("Estimado usuario, seleccione que calculo desea realizar con el circulo");
             System.out.println("1. Area");
             System.out.println("2. Perimetro");
+            System.out.println("3. Salir");
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException e) {
@@ -99,6 +100,7 @@ public class Main {
             System.out.println("Estimado usuario, seleccione que calculo desea realizar con el cuadrado");
             System.out.println("1. Area");
             System.out.println("2. Perimetro");
+            System.out.println("3. Salir");
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException e) {
@@ -133,6 +135,7 @@ public class Main {
             System.out.println("Estimado usuario, seleccione que calculo desea realizar con el triangulo");
             System.out.println("1. Area");
             System.out.println("2. Perimetro");
+            System.out.println("3. Salir");
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException e) {
@@ -166,6 +169,7 @@ public class Main {
             System.out.println("Estimado usuario, seleccione que calculo desea realizar con el rectangulo");
             System.out.println("1. Area");
             System.out.println("2. Perimetro");
+            System.out.println("3. Salir");
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException e) {
@@ -199,6 +203,7 @@ public class Main {
             System.out.println("Estimado usuario, seleccione que calculo desea realizar con el pentagono");
             System.out.println("1. Area");
             System.out.println("2. Perimetro");
+            System.out.println("3. Salir");
             try {
                 opcion = scanner.nextInt();
             } catch (InputMismatchException e) {
